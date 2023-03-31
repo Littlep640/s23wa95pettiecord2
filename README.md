@@ -2,4 +2,6 @@
 Assignment 10 for Web Dev
 
 
-Here is the repository for assigment 10 for the Web Development course.
+This is the repository for assigment 10 for the Web Development course.
+
+Here is the link to the Render server: https://s23wa95pettiecord2.onrender.com
