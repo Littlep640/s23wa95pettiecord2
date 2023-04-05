@@ -2,3 +2,10 @@ extends layout
 
 block content
   h1= title
+  
+  
+  - var results = ["Pug", "S", 15]
+  div(class="container-fluid")
+   div(class="row")
+    each val in results 
+      div(class="col-sm-2")=val 
